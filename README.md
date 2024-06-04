@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abdul Moeed</h1>
 <h3 align="center">Data Science Enthusiast | RPA Engineer</h3>
-
-<img align="right" alt="coding" width ="400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width ="350" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amoeed786&label=Profile%20views&color=0e75b6&style=flat" alt="amoeed786" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Java , JavaScript**
 
-- 📫 How to reach me **moeedrajp0ot59@gmail.com**
+- 📫 How to reach me **moeedrajppot59@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-moeed-74121b23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-moeed-74121b23a/" height="30" width="40" /></a>
 <a href="https://kaggle.com/amoeed234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amoeed234" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/bsdsf21a003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bsdsf21a003" height="30" width="40" /></a>
 </p>
