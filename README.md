@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amoeed786&label=Profile%20views&color=0e75b6&style=flat" alt="amoeed786" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Java , JavaScript**
+- 🌱 I’m currently learning **Deep Learning, Machine Learning Operations , Big Data, Information Security**
 
 - 📫 How to reach me **moeedrajpoot59@gmail.com**
 
